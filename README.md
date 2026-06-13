@@ -1,30 +1,129 @@
-# 💫 About Me:
-### 👋 Hi there! I'm Dharmik Surti<br><br>I'm passionate about web development and currently learning new technologies in the MERN stack (MongoDB, Express.js, React.js, Node.js) and also Other Javascript Frameworks like Next.js,Sveltekit . I enjoy building dynamic and responsive full-stack applications and constantly exploring tools that enhance developer productivity and user experience.<br><br><br>🌱 Currently Learning<br>- Advanced React patterns & hooks<br>- Node.js performance optimization<br>- MongoDB aggregation & schema design<br>- Deployment with Render & cloud platforms<br><br>🚀 Tech Stack<br>MongoDB<br>Express.js<br>React<br>Node.js <br/> Sveltekit <br/> <br><br>📫 Let's Connect!<br>- 💼 [LinkedIn](https://www.linkedin.com/in/surti-dharmik-359a03349/)<br>- 📧 surtidharmik05@gmail.com<br><br>Thanks for stopping by! 😄<br>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:6f42c1,50:8b5cf6,100:4f46e5&text=Dharmik%20Surti&fontAlignY=40&fontSize=50" />
+</p>
 
+<h1 align="center">Junior Software Developer Intern • Full Stack Developer • AI Product Builder</h1>
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/pxVnjdAs) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/surtidharmik) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/surtidharmik/)[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:surtidharmik05@gmail.com) 
-
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Esbuild](https://img.shields.io/badge/esbuild-%23FFCF00.svg?style=for-the-badge&logo=esbuild&logoColor=black) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SvelteKit](https://img.shields.io/badge/SvelteKit-FF3E00?style=for-the-badge&logo=svelte&logoColor=white) ![Sanity](https://img.shields.io/badge/Sanity-F03E2F?style=for-the-badge&logo=sanity&logoColor=white)
-![Phase](https://img.shields.io/badge/Phase-000000?style=for-the-badge&logo=phase&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Radix UI](https://img.shields.io/badge/radix%20ui-161618.svg?style=for-the-badge&logo=radix-ui&logoColor=white)
-![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![PocketBase](https://img.shields.io/badge/PocketBase-000000?style=for-the-badge&logo=pocketbase&logoColor=white)
-![Claw Cloud](https://img.shields.io/badge/🐾%20Claw%20Cloud-0A0A0A?style=for-the-badge&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) 
-![GitHub Gist](https://img.shields.io/badge/GitHub%20Gist-181717?style=for-the-badge&logo=github&logoColor=white)
- ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=d15102&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=d15102&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=d15102&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=d15102&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;MERN+Stack+Engineer;Next.js+Developer;SvelteKit+Developer;AI+Powered+Application+Builder" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=d15102&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# About
+
+Full Stack Developer focused on building scalable web applications, AI-powered products, and modern user experiences using MERN Stack, Next.js, SvelteKit, MongoDB, PocketBase, and TypeScript.
+
+---
+
+# Tech Stack
+
+<div align="center">
+
+## Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=js,ts,python,java" />
+</p>
+
+## Frontend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,svelte,html,css,tailwind" />
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
+<img src="https://img.shields.io/badge/Shadcn_UI-000000?style=for-the-badge&logo=shadcnui&logoColor=white" />
+</p>
+
+## Backend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+## Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb" />
+<img src="https://img.shields.io/badge/PocketBase-B8F23D?style=for-the-badge" />
+</p>
+
+## State Management
+
+<p>
+<img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
+<img src="https://img.shields.io/badge/Context_API-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" />
+</p>
+
+## Authentication & Security
+
+<p>
+<img src="https://img.shields.io/badge/JWT_Authentication-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+<img src="https://img.shields.io/badge/Passport.js-34E27A?style=for-the-badge&logo=passport&logoColor=black" />
+</p>
+
+## Forms & Validation
+
+<p>
+<img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white" />
+<img src="https://img.shields.io/badge/Zod-3068B7?style=for-the-badge" />
+<img src="https://img.shields.io/badge/SvelteKit_Superforms-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" />
+</p>
+
+## Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/GitHub_Gist-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" />
+</p>
+
+</div>
+
+---
+
+# Education
+
+```yaml
+Degree:
+  Bachelor of Technology (B.Tech)
+
+Branch:
+  Computer Science & Engineering
+
+University:
+  Drs. Kiran And Pallavi Patel Global University
+
+Location:
+  Vadodara, Gujarat, India
+
+Graduation:
+  2026
+
+CGPA:
+  9.32
+```
+---
+
+# GitHub Analytics
+
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=D15102&show_icons=true&theme=tokyonight" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=D15102&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=D15102&theme=tokyonight" />
+</p>
+
+---
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=200&color=0:6f42c1,50:8b5cf6,100:4f46e5" />
+</p>
